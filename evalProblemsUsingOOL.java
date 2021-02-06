@@ -1,3 +1,32 @@
+/*
+                      ::::::
+                    :+:  :+:
+                   +:+   +:+
+                  +#++:++#++:::::::
+                 +#+     +#+     :+:
+                #+#      #+#     +:+
+               ###       ###+:++#""
+                         +#+
+                         #+#
+                         ###
+
+__author__ = "Alex Pujols"
+__copyright__ = "TBD"
+__credits__ = ["Alex Pujols"]
+__license__ = "GPL"
+__version__ = "1.0"
+__maintainer__ = "Alex Pujols"
+__email__ = "alex.pujols@gmail.com"
+__status__ = "Prototype"
+
+'''
+Title	        :	{TBD}
+Date		      :	{XX-XX-20XX}
+Description   :	{TBD}
+Options	      :	{TBD}
+Notes	        :	{TBD}
+'''
+*/
 import java.util.*;
 
 public class evalProblemsUsingOOL {
