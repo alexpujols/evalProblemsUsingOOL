@@ -1,14 +1,31 @@
-////////////////////////////////////////////////////////////////////////////////
-//-----------------------------------------------------------------
-//   Namespace:      evalProblemsUsingOOLcs
-//   Class:          evalProblemsClass
-//   Description:    Class for the creation and testing of simple algorithms
-//   Author:         @alexpujols                    Date: 1/17/21
-//   Notes:          TBD
-//   Revision History:
-//   Name:           Date:        Description:
-//   @alexpujols     1/18/21      Complete final testing
-///-----------------------------------------------------------------
+/*
+                      ::::::
+                    :+:  :+:
+                   +:+   +:+
+                  +#++:++#++:::::::
+                 +#+     +#+     :+:
+                #+#      #+#     +:+
+               ###       ###+:++#""
+                         +#+
+                         #+#
+                         ###
+
+__author__ = "Alex Pujols"
+__copyright__ = "TBD"
+__credits__ = ["Alex Pujols"]
+__license__ = "GPL"
+__version__ = "1.0"
+__maintainer__ = "Alex Pujols"
+__email__ = "alex.pujols@gmail.com"
+__status__ = "Prototype"
+
+
+Title	      :	Proceedural problems in Go
+Date		    :	2-16-2021
+Description :	Solves simple proceedural problems in goLang
+Options	    :	{TBD}
+Notes	      :	{TBD}
+*/
 using System;
 // Class for the creation and testing of PrimeFinder and OverlapFinder algorithms
 namespace evalProblemsUsingOOLcs
